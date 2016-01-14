@@ -10,7 +10,7 @@ app.get('/as', function (req, res) {
     res.render('home');
 });
 app.get('/', function (req, res) {
-    res.render('main');
+    res.render('main', { title: 'Express' });
 });
 
 
