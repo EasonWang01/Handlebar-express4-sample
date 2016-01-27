@@ -1,5 +1,5 @@
 # Handlebar-express4-sample
-simple demo with no default layout
+simple demo with no default layout.
 
 
 origin:https://github.com/ericf/express-handlebars#extnamehandlebars
