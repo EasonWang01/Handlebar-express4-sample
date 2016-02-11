@@ -13,3 +13,4 @@ app.engine('handlebars', exphbs({defaultLayout: 'main'}));
 
 4.Add other files as template and precompile refer to this http://www.adamwadeharris.com/how-to-precompile-handlebars-templates/ 
  
+5.Support a directories of partials; e.g., {{> foo/bar}} which exists on the file system at views/partials/foo/bar.handlebars, by default.
